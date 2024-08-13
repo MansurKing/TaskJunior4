@@ -6,7 +6,7 @@ namespace TaskJunior4
     {
         static void Main(string[] args)
         {
-            int picturesInTheAlbum = 52, groupOfImages = 3 displayingImagesInARow;
+            int picturesInTheAlbum = 52, groupOfImages = 3, displayingImagesInARow;
             float outputOfTheRemainingImages;
 
             displayingImagesInARow = picturesInTheAlbum / groupOfImages;
